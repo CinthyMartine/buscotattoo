@@ -1,0 +1,16 @@
+INSERT INTO categories (name_categories) VALUES
+    ('Tradicional/Old School'),
+    ('Realismo'),
+    ('Tribal'),
+    ('New School'),
+    ('Fine Line'),
+    ('Dotwork'),
+    ('Acuarela'),
+    ('NeoTradicional'),
+    ('Geométrico'),
+    ('Japones'),
+    ('Blackwork'),
+    ('Lettering'),
+    ('Minimalista'),
+    ('Trash Polka'),
+    ('Otro');
